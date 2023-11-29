@@ -1,1 +1,2 @@
-![Alt](https://i.pinimg.com/564x/6a/27/cd/6a27cd45f9023457da836ba3ccaa8886.jpg)
+<img src="https://i.pinimg.com/originals/dd/c2/1c/ddc21c4d9a62c843fafd655a74205bed.jpg" width="800" height="200" />
+<center>Hi! ★☆ Levi and im currently studying Java~~</center>  🖥️
